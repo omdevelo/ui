@@ -1,0 +1,22 @@
+[
+    {"name": "listener 1",
+    "queue": "queue 1",
+    "application": "application 1",
+    "contype": "primary",
+    "constatus": "active"
+    },
+    {"name": "listener 2",
+    "queue": "queue 2",
+    "application": "application 2",
+    "contype": "primary",
+    "constatus": "de-active"
+    },
+    {"name": "listener 3",
+    "queue": "queue 3",
+    "application": "application 3",
+    "contype": "primary",
+    "constatus": "de-active"
+    }
+     
+]
+    
